@@ -30,4 +30,8 @@ Output: [0,1]
 Only one valid answer exists.
  
 
+<<<<<<< HEAD
 Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+=======
+Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+>>>>>>> 511c724ecabcb068fba1052670a905cb65f3b236
