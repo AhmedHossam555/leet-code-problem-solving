@@ -19,4 +19,3 @@ var twoSum = function(nums, target) {
     
 };
 
-// console.log(twoSum([3,4,9,6,4],8))
